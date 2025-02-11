@@ -1,0 +1,5 @@
+train: ../train_zip/train/images
+val: ../test_zip/test/images
+
+nc: 27
+names: ['MCC_SD card connector', 'Piezo Buzzer', 'LCD display place', 'LEDs', 'Push Buttons', 'GLCD Display Place', 'microBoard socket', 'Jumpers', 'Platamicroboard', 'Ports', 'DebugUSB', 'Buzzer', 'DisplayEasyTFT', 'Processor', 'ButtonPressLevel', 'Joystick', 'PlataGreenWithProcessor', 'ProcessorPlace', 'PlataGreenWithoutProcessor', 'PlataOrange', 'PlataBlue', 'DebugBlue', 'DebugOrange', 'DisplayBlue', 'PortsBlueOrange', 'Digit', 'click']
